@@ -1,5 +1,6 @@
   <h2 align="center">Bem vindo ao meu perfil</h2>
     <h2 >oi, eu sou o Vinicius :D</h2>
+    <p>
         Sou Desenvolvedor Back-End com foco em Java e Nodejs. <br>
         Estudo / sou apaixonado por Cloud (AWS CERTIFIED) e DevOps<br>
     </p>
