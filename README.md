@@ -4,7 +4,7 @@
         Estudo / sou apaixonado por Cloud (AWS CERTIFIED) e DevOps<br>
     </p>
     <h3>Skills[] dev</h3>
-    <p>[ <br> Java, Spring boot, Hibernate, JavaScript / TypeScript, NodeJS, Express, NestJS, Sequelize, JEST / TDD, Docker, Ansible, MySql, MongoDB, AWS Certified, AZURE  <br>]</p>
+    <p>[ <br> Java, JDBC, Spring boot, JPA, Hibernate, JavaScript / TypeScript, NodeJS, Express, NestJS, Sequelize, JEST / TDD, Docker, Ansible, MySql, MongoDB, AWS Certified, AZURE  <br>]</p>
             <a href="https://www.linkedin.com/in/marcos-teixeira-jr2022" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 <div align="center">  
