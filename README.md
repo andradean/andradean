@@ -4,7 +4,7 @@
         Sou Desenvolvedor Back-End com foco em Java e Nodejs. <br>
         Estudo / sou apaixonado por Cloud (AWS CERTIFIED) e DevOps<br>
     </p>
-    <h3>Skills[] dev</h3>
+    <h3>Skills[ ] dev</h3>
     <p>[ <br> Java, JDBC, Spring boot, JPA, Hibernate, JavaScript / TypeScript, NodeJS, Express, NestJS, Sequelize, JEST / TDD, Docker, Ansible, MySql, MongoDB, AWS Certified, AZURE  <br>]</p>
             <a href="https://www.linkedin.com/in/vinicius-andrade-565a88242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
